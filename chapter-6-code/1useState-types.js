@@ -1,6 +1,5 @@
 // 1. 現在のstateをベースに更新する場合
 import { useState } from "react"
-import { useState } from "react"
 
 const App = () => {
     const [name, setName] = useState("谷崎")
